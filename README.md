@@ -8,5 +8,5 @@ Two methods are available to track the status of a package on CRAN:
 
 - each package from the `epiverse-trace` r-universe available on CRAN has a dedicated issue in this repository: https://github.com/epiverse-trace/etdashboard/issues?q=is%3Aissue
   The issue is re-opened every time the package is at risk of archival.
-  To receive notifications about the status of a package, you can subscribe to the issue..
+  To receive notifications about the status of a package, you can subscribe to the issue...
 
